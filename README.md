@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wmaraci.com/nedir/developer.png)
+                                                        [![MasterHead](https://cdn.wmaraci.com/nedir/developer.png)
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate developer from Izmir, Türkiye.</h3>
