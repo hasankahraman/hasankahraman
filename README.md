@@ -1,3 +1,4 @@
+[![MasterHead](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate developer from Izmir, Türkiye.</h3>
 
