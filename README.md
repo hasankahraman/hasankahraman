@@ -28,7 +28,7 @@
 <a href="https://twitter.com/favirotologist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="favirotologist" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasankahraman45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasankahraman45" height="30" width="40" /></a>
 <a href="https://instagram.com/favirotologist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="favirotologist" height="30" width="40" /></a>
-<a href="https://medium.com/@hasankahraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hasankahraman" height="30" width="40" /></a>
+<a href="https://medium.com/@kahramanhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hasankahraman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
